@@ -1,4 +1,4 @@
-const topBarCenterText = `VA3HDL - FN04ga`;
+const topBarCenterText = `KD6AKC - FM18bs`;
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
@@ -19,7 +19,7 @@ const aURL = [
   [
     "2196F3",
     "LIGHTNING",
-    "https://map.blitzortung.org/#3.87/36.5/-89.41",
+    "https://map.blitzortung.org/#8.0/38.765/-77.596",
     "1",
     "R",
   ],
@@ -58,7 +58,7 @@ const aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KLWX_loop.gif",
   ],
   [
     "NOAA D-RAP",
@@ -70,12 +70,12 @@ const aIMG = [
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
-    "SATELLITE CAN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
+    "YACC APRS",
+    "http://127.0.0.1:8008/map.png",
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "LOCAL SATELLITE",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ne/GEOCOLOR/600x600.jpg",
   ],
   [
     "LIGHTNING",
